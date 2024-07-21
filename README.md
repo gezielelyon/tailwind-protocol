@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-# **Next Tailwind Protocol**
+# **Tailwind Protocol**
 
 </div>
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/next-tailwind-protocol)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/next-tailwind-protocol)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/next-tailwind-protocol)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/next-tailwind-protocol)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/tailwind-protocol)](https://github.com/gezielelyon/tailwind-protocol/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/tailwind-protocol)](https://github.com/gezielelyon/tailwind-protocol/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/tailwind-protocol)](https://github.com/gezielelyon/tailwind-protocol/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/tailwind-protocol)](https://github.com/gezielelyon/tailwind-protocol)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
